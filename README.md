@@ -19,7 +19,7 @@
 | NOTActive | [report4univ](https://github.com/Kurami-ask/report4univ) | MASTER |-|
 | Active | [report4tm](https://github.com/Kurami-ask/report4tm) | MASTER |-|
 | NOTActive | [report4work](https://github.com/Kurami-ask/report4work) | MASTER |-|
-| NOTActive | [AL_Agent](https://github.com/Kurami-ask/AI-Agent) | MASTER | local LLM test |
+| NOTActive | [AI_Agent](https://github.com/Kurami-ask/AI-Agent) | MASTER | local LLM test |
 | NOTActive | [bt-kurami](https://github.com/Kurami-ask/bt-kurami) | BACHELOR |kurami卒論コード完全版|
 | NOTActive | [turtlebot_local_file](https://github.com/Kurami-ask/turtlebot_local_file) | BACHELOR |kurami卒論コードturtlebotオンボード版|
 | NOTActive | [kurami-turtlebot3](https://github.com/Kurami-ask/kurami-turtlebot3) | BACHELOR |kurami卒論テスト中コード|
