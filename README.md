@@ -9,7 +9,6 @@
 | Active | [vision-LLM](https://github.com/Kurami-ask/vision-LLM) | MASTER |-|
 | Active | [hazard_map](https://github.com/Kurami-ask/hazard_map) | MASTER |-|
 | Active | [custom_depth_d435](https://github.com/Kurami-ask/kuramiMASTER_custom_depth_d435) | MASTER |-|
-| Active | [semantic-belief-observer](https://github.com/Kurami-ask/semantic-belief-observer.git) | MASTER |-|
 | NOTActive | [ORB_SLAM3](https://github.com/Kurami-ask/ORB-SLAM3) | MASTER |-|
 | NOTActive | [ms-kurami](https://github.com/Kurami-ask/ms-kurami) | MASTER | IsaacLAB |
 | NOTActive | [glim](https://github.com/Kurami-ask/glim) | MASTER | 3D点群処理ライブラリ |
