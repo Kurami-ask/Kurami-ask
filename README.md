@@ -4,7 +4,7 @@
 
 | 状態 | リポジトリ | 用途 | 説明 |
 |------|------------|-----------|------------------|
-| Active | [MASTER_code](https://github.com/Kurami-ask/MASTER_code) | MASTER |-|
+| Active | [MASTER_code](https://github.com/Kurami-ask/MASTER_code) | MASTER |information gain based active navigation / test_intelligentnavigation|
 | Active | [SLAMwcartographer](https://github.com/Kurami-ask/SLAMwcartographer) | MASTER |-|
 | Active | [vision-LLM](https://github.com/Kurami-ask/vision-LLM) | MASTER |-|
 | Active | [hazard_map](https://github.com/Kurami-ask/hazard_map) | MASTER |-|
