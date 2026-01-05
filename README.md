@@ -16,6 +16,7 @@
 | ft_delete | [semantic_navigation](https://github.com/Kurami-ask/semantic_navigation) | MASTER |-|
 | ft_delete | [autonomous_exploration](https://github.com/Kurami-ask/autonomous_exploration) | MASTER |-|
 | Active | [master_thesis_tex](https://github.com/Kurami-ask/master_thesis_tex) | MASTER |-|
+| Active | [bsf_report_template](https://github.com/Kurami-ask/BSF_Report_Template.git) | MASTER |-|
 | NOTActive | [report4univ](https://github.com/Kurami-ask/report4univ) | MASTER |-|
 | Active | [report4tm](https://github.com/Kurami-ask/report4tm) | MASTER |-|
 | NOTActive | [report4work](https://github.com/Kurami-ask/report4work) | MASTER |-|
