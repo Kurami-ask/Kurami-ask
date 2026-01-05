@@ -15,11 +15,11 @@
 | NOTActive | [slam_test](https://github.com/Kurami-ask/project4_slam_test) | MASTER | slam test for SLAMwcartographer |
 | ft_delete | [semantic_navigation](https://github.com/Kurami-ask/semantic_navigation) | MASTER |-|
 | ft_delete | [autonomous_exploration](https://github.com/Kurami-ask/autonomous_exploration) | MASTER |-|
-| Active | [master_thesis_tex](https://github.com/Kurami-ask/master_thesis_tex) | MASTER |-|
-| Active | [bsf_report_template](https://github.com/Kurami-ask/BSF_Report_Template.git) | MASTER |-|
-| NOTActive | [report4univ](https://github.com/Kurami-ask/report4univ) | MASTER |-|
-| Active | [report4tm](https://github.com/Kurami-ask/report4tm) | MASTER |-|
-| NOTActive | [report4work](https://github.com/Kurami-ask/report4work) | MASTER |-|
+| Active | [master_thesis_tex](https://github.com/Kurami-ask/master_thesis_tex) | MASTER |latex|
+| Active | [bsf_report_template](https://github.com/Kurami-ask/BSF_Report_Template.git) | MASTER |latex|
+| NOTActive | [report4univ](https://github.com/Kurami-ask/report4univ) | MASTER |latex|
+| Active | [report4tm](https://github.com/Kurami-ask/report4tm) | MASTER |latex|
+| NOTActive | [report4work](https://github.com/Kurami-ask/report4work) | MASTER |latex|
 | NOTActive | [AI_Agent](https://github.com/Kurami-ask/AI-Agent) | MASTER | local LLM test |
 | NOTActive | [bt-kurami](https://github.com/Kurami-ask/bt-kurami) | BACHELOR |kurami卒論コード完全版|
 | NOTActive | [turtlebot_local_file](https://github.com/Kurami-ask/turtlebot_local_file) | BACHELOR |kurami卒論コードturtlebotオンボード版|
